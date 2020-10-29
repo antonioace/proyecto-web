@@ -10,5 +10,7 @@ http://hamashiaj.ga/
 
 
 datos de admin:
+
 user:admin
+
 password :admin
