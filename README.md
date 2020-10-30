@@ -7,7 +7,8 @@ https://github.com/joserafaelpm/Hamashiaj0.5
 
 Link de la página :
 http://ec2-34-229-152-221.compute-1.amazonaws.com:8080/hamashiaj/
-http://hamashiaj.ga/
+http://www.hamashiaj.online
+
 
 
 
