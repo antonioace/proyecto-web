@@ -17,3 +17,8 @@ datos de admin:
 user:admin
 
 password :admin
+
+## Contributing
+
+Jose Rafael Peña Mena 1151816
+Antonio Acevedo Castellanos 1151764
